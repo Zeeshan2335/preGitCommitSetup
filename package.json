@@ -1,0 +1,29 @@
+{
+  "name": "pregitcommitsetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeeshan2335/preGitCommitSetup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeeshan2335/preGitCommitSetup/issues"
+  },
+  "homepage": "https://github.com/Zeeshan2335/preGitCommitSetup#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.2",
+    "eslint-plugin-react": "^7.33.2",
+  
+    "prettier": "^3.1.1"
+  }
+}
